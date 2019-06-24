@@ -1,0 +1,17 @@
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\NP-HW-Server.Service.dll.config
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\NP-HW-Server.Service.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\NP-HW-Server.Service.pdb
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\EntityFramework.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\NP-HW-Server.DTO.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\NP-HW-Server.DTO.pdb
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\EntityFramework.xml
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\obj\Debug\NP-HW-Server.Service.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\obj\Debug\NP-HW-Server.Service.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\obj\Debug\NP-HW-Server.Service.csproj.CopyComplete
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\obj\Debug\NP-HW-Server.Service.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.Service\obj\Debug\NP-HW-Server.Service.pdb

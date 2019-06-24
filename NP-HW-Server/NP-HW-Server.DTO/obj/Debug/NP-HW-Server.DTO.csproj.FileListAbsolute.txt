@@ -1,0 +1,9 @@
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\bin\Debug\NP-HW-Server.DTO.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\bin\Debug\NP-HW-Server.DTO.pdb
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\obj\Debug\NP-HW-Server.DTO.csprojAssemblyReference.cache
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\obj\Debug\NP-HW-Server.DTO.csproj.CoreCompileInputs.cache
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\obj\Debug\NP-HW-Server.DTO.csproj.CopyComplete
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\obj\Debug\NP-HW-Server.DTO.dll
+C:\Users\azat\source\repos\NP-HW-Server\NP-HW-Server.DTO\obj\Debug\NP-HW-Server.DTO.pdb
